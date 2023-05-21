@@ -1,3 +1,6 @@
+* entity name: CS22M027
+* project name: Assignment_3
+* wandb key : ab8429eef239aaf26799fd710e5ea6aec30ab090
 # cs6910_assignment_3
 
 A Deep learning programming assignment where we have to develop a Encoder-Decoder model using Recurrent Neural Networks to train on Aksharantar  dataset (language: Telugu) so that for a given english word our Model will convert it into telugu.
